@@ -1,10 +1,11 @@
 # dclong/jupyterhub-pelican [@DockerHub](https://hub.docker.com/r/dclong/jupyterhub-pelican/) | [@GitHub](https://github.com/dclong/docker-jupyterhub-pelican)
 
-JupyterHub with Python, Kotlin, JavaScript, TypeScript and Rust Kernels. 
+JupyterHub with the Python package pelican and related tools installed for building static blogs.
+The Docker image `dclong/jupyterhub-pelican` uses right versions of packages
+and will never be rebuilt so that it will always work.
 
 ## Prerequisite
 You need to [install Docker](http://www.legendu.net/en/blog/docker-installation/) before you use this Docker image.
-
 
 ## Usage in Linux/Unix
 
