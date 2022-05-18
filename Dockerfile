@@ -6,5 +6,5 @@ RUN python3 -m pip install \
     loguru \
     beautifulsoup4 typogrify \
     pelican "pelican-jupyter==0.10.0" pelican-render-math \
-    "dsutil[jupyter] @ git+https://github.com/dclong/dsutil@main"
-
+    aiutil[jupyter]
+    
