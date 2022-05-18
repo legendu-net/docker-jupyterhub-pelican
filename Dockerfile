@@ -1,6 +1,6 @@
 # NAME: dclong/jupyterhub-pelican
 FROM dclong/jupyterhub
-# GIT: https://github.com/dclong/docker-jupyterhub.git
+# GIT: https://github.com/legendu-net/docker-jupyterhub.git
 
 RUN python3 -m pip install \
     loguru \
